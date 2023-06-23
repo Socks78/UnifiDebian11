@@ -1,3 +1,4 @@
+# Crear backup de sistema anterior de ser necesario 
 # Dependencias 
 apt install curl sudo gpg
 
@@ -18,3 +19,4 @@ sudo apt-get update && sudo apt-get install unifi -y
 
 
 # acceder via https://ip.del.controlador:8443
+# recuperrar desde backup o setear nueva consola.
